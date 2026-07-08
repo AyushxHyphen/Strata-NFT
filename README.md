@@ -1,5 +1,5 @@
 # STRATA — a lineage-native NFT exchange
-Link - https://eth-sepolia.g.alchemy.com/v2/BGzYV8LbsE5VeN0AJAHy5
+Link - https://ayushxhyphen.github.io/Strata-NFT/
 
 
 A working prototype (`index.html`) plus a Solidity reference contract
